@@ -11,7 +11,6 @@
 // );
 // console.log("···· · −·−−   ·−−− ··− −·· ·");
 
-const solution = require("./6kyu Roman Numerals Encoder");
+const multiplicationTable = require("./6kyu Multiplication table");
 
-console.log("res1", solution(2));
-console.log("res3", solution(122));
+console.log("res", multiplicationTable(3));
