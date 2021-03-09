@@ -11,6 +11,6 @@
 // );
 // console.log("···· · −·−−   ·−−− ··− −·· ·");
 
-const multiplicationTable = require("./6kyu Multiplication table");
+const solution = require("./6kyu Roman Numerals Dencoder");
 
-console.log("res", multiplicationTable(3));
+console.log("res", solution("XXI"));
