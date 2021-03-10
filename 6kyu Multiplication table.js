@@ -9,5 +9,3 @@ let multiplicationTable = function (size) {
   }
   return res;
 };
-
-module.exports = multiplicationTable;

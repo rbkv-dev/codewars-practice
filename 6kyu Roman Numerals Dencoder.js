@@ -28,5 +28,3 @@ function solution(roman) {
   }
   return number;
 }
-
-module.exports = solution;

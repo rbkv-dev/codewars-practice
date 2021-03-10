@@ -64,5 +64,3 @@ function decodeMorse(morseCode) {
     .replace(/ +/g, " ")
     .trim();
 }
-
-module.exports = decodeMorse;

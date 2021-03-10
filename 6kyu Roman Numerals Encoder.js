@@ -24,5 +24,3 @@ function solution(num) {
   }
   return res;
 }
-
-module.exports = solution;
