@@ -11,6 +11,6 @@
 // );
 // console.log("···· · −·−−   ·−−− ··− −·· ·");
 
-const solution = require("./6kyu Roman Numerals Dencoder");
+const rot13 = require("./5kyu Rot13");
 
-console.log("res", solution("XXI"));
+console.log("res", rot13("Grfg"));
